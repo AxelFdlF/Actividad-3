@@ -5,6 +5,7 @@ Proyecto del minijuego Pacman desarrollado en Python utilizando el módulo `free
 ## Funcionalidades implementadas
 
 - **Los fantasmas sean más listos:** Se mejoró la lógica de movimiento de los fantasmas para que persigan a Pacman de manera más eficiente y desafiante.
+- **Cambiar el tablero:** Se modificó la estructura de los muros y pasillos del tablero de juego original.
 - **Hacer que los fantasmas vayan más rápido:** Se ajustó la velocidad de desplazamiento de los fantasmas para incrementar la dificultad del juego.
 
 
