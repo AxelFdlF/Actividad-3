@@ -133,10 +133,10 @@ def move():
 
     for ghost in ghosts:
         options = [
-                vector(5, 0),
-                vector(-5, 0),
-                vector(0, -5),
-                vector(0, 5),
+                vector(10, 0),
+                vector(-10, 0),
+                vector(0, -10),
+                vector(0, 10),
                 ]
         valid_options = [opt for opt in options if valid(ghost[0] + opt)]
 
